@@ -1,1 +1,18 @@
+[
+  {
+    "name": "Isolationism",
+    "internalDevelopmentBonus": {
+      "production": 10,
+      "happiness": 2
+    },
+    "defensiveBonus": {
+      "combatStrength": 15
+    },
+    "tradeAndDiplomacyLimitation": {
+      "internationalTradeGold": -25,
+      "diplomaticRelations": -1
+    }
+  }
+  // ... other traits
+]
 
