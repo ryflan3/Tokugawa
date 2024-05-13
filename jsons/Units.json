@@ -10,4 +10,16 @@
   "upgradesTo": "Rifleman",
   "abilities": ["Bushido", "CanAttackMultipleTimes"]
 	}
+	{
+  "name": "Ninja",
+  "movement": 3,
+  "combatStrength": 12,
+  "rangedCombatStrength": 0,
+  "range": 0,
+  "productionCost": 60,
+  "requiredTech": "Military Training",
+  "upgradesTo": "Paratrooper",
+  "abilities": ["Stealth", "Sabotage"]
+}
+
 ]
