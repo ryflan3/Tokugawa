@@ -1,7 +1,16 @@
 [
 	{
 		{
-    "startIntroPart1": "We come in peace!",
+    [
+  {
+    "name": "Tokugawa Shogunate",
+    "uniqueUnits": ["Samurai", "Ninja"],
+    "uniqueBuildings": ["Dojo", "Geisha House"],
+    "leaderName": "Tokugawa Ieyasu",
+    "leaderDescription": "Founder and first shogun of the Tokugawa Shogunate",
+    "preferredVictoryType": "Cultural"
+		
+]   "startIntroPart1": "We come in peace!",
     "startIntroPart2": "The Tokugawa Shogunate welcomes you. Our strength lies in our unity and culture.",
     
     "declaringWar": "Prepare to face the wrath of the samurai!",
