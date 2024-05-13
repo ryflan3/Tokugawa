@@ -31,12 +31,12 @@
     "hateYes": ["Very well.","That will do.","So be it."],
     "afterPeace": "Peace is restored. Let us prosper together.",
     "tradeRequest": "The Shogunate offers you this trade. Consider it wisely.",
-    "outerColor": [0, 0, 0],  // Black
-    "innerColor": [255, 215, 0],  // Gold
+    "outerColor": [0, 0, 0],  // 
+    "innerColor": [255, 215, 0],  // 
     "unique": "ISOLATIONISM"
 }
 
 }
-]
+
 	}
 ]
