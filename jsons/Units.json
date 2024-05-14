@@ -2,7 +2,7 @@
   {
     "name": "Samurai",
     "unitType": "Sword",
-    "replaces": "Longswordsmen",
+    "replaces": "Longswordsman",
     "movement": 2,
     "strength": 24,
     "cost": 100,
@@ -11,6 +11,5 @@
     "upgradesTo": "Rifleman",
     "uniqueTo": "Tokugawa Shogunate",
     "abilities": ["This Unit gains the [Shock I] promotion", "Can move after attacking"]
-  },
+  }
 ]
-
