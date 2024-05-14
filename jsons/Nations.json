@@ -33,7 +33,7 @@
 
   "uniqueName": "Isolationaism",
   "uniques": "[+20 City Strength] from every [Defensive Buildings]",
-  "uniqueUnits": ["Samurai", "Ninja"],
+  "uniqueUnits": ["Samurai"],
   "uniqueBuildings": ["Dojo", "Geisha House"],
   
   "cityNames": [
