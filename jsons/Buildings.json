@@ -1,19 +1,26 @@
 [
   {
     "name": "Dojo",
-    "cost": 100,
+    "replaces": "Armory",
+    "requiredTech": "Steel",
+    "cost": 150,
     "maintenance": 1,
-    "requiredTech": "Feudalism",
-    "providesXP": 2,
-    "providesHappiness": 1
+    "happiness": 2,
+		"culture": 2,
+    "uniqueTo": "Tokugawa Shogunate"
+    "uniques": "New [Melee] units start with [15] experience [in this city",
+
   },
   {
     "name": "Geisha House",
-    "cost": 120,
-    "maintenance": 2,
+    "replaces": "Ampitheatre",
     "requiredTech": "Drama and Poetry",
-    "providesCulture": 2,
-    "providesHappiness": 1
+    "cost": 90,
+    "maintenance": 1,
+    "happiness": 3,
+		"culture": 4,
+    "uniqueTo": "Tokugawa Shogunate"
+
   }
 ]
 
