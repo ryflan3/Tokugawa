@@ -31,7 +31,7 @@
   "tradeRequest": "The Shogunate offers you this trade. Consider it wisely.",
   "outerColor": [0, 0, 0],
   "innerColor": [255, 215, 0], 
-  "unique": "ISOLATIONISM"
+  "unique": "[+20]% City Strength from defensive buildings"
 }
 
 	
