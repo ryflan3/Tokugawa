@@ -27,7 +27,10 @@
   "hateNo": ["Absolutely not!", "We will not agree to that!", "Unacceptable!"],
   "hateYes": ["Very well.", "That will do.", "So be it."],
   "uniqueName": "Isolationism",
-  "uniques": ["+20% City Strength from every Defensive Buildings"],
+  "uniques": [
+    "+10% Combat strength in friendly territory",
+    "+1 Culture in all cities",
+    "Cannot create Open Borders agreements"],
   "uniqueUnits": ["Samurai"],
   "uniqueBuildings": ["Dojo", "Geisha House"],
   "cityNames": [
