@@ -2,28 +2,15 @@
   {
     "name": "Samurai",
     "unitType": "Sword",
-    "uniqueTo": "Tokugawa Shogunate",
+    "replaces": "Longswordsmen",
     "movement": 2,
-    "combatStrength": 18,
+    "strength": 24,
     "rangedCombatStrength": 0,
     "range": 0,
-    "productionCost": 75,
-    "requiredTech": "Feudalism",
+    "cost": 100,
+    "requiredTech": "Steel",
     "upgradesTo": "Rifleman",
-    "abilities": ["Bushido", "CanAttackMultipleTimes"]
+    "abilities": ["This Unit gains the [Shock I] promotion", "Can move after attacking"]
   },
-  {
-    "name": "Ninja",
-    "unitType": "Sword",
-    "uniqueTo": "Tokugawa Shogunate",
-    "movement": 3,
-    "combatStrength": 12,
-    "rangedCombatStrength": 0,
-    "range": 0,
-    "productionCost": 60,
-    "requiredTech": "Military Training",
-    "upgradesTo": "Paratrooper",
-    "abilities": ["Stealth", "Sabotage"]
-  }
 ]
 
