@@ -12,7 +12,7 @@
   }
   {
     "name": "Geisha House",
-    "replaces": "Amphitheatre",
+    "replaces": "Amphitheater",
     "requiredTech": "Drama and Poetry",
     "cost": 90,
     "maintenance": 1,
