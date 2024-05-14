@@ -5,11 +5,11 @@
     "replaces": "Longswordsmen",
     "movement": 2,
     "strength": 24,
-    "rangedCombatStrength": 0,
-    "range": 0,
     "cost": 100,
+    "requiredResource": "Iron",
     "requiredTech": "Steel",
     "upgradesTo": "Rifleman",
+    "uniqueTo": "Tokugawa Shogunate",
     "abilities": ["This Unit gains the [Shock I] promotion", "Can move after attacking"]
   },
 ]
