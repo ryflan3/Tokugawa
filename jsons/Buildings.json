@@ -7,20 +7,17 @@
     "maintenance": 1,
     "happiness": 2,
     "culture": 2,
-    "uniqueTo": "Tokugawa Shogunate"
-    "uniques": "New [Melee] units start with [15] experience [in this city",
-
+    "uniqueTo": "Tokugawa Shogunate",
+    "uniques": ["New [Melee] units start with [20] experience [in this city]"]
   },
   {
     "name": "Geisha House",
-    "replaces": "Ampitheatre",
+    "replaces": "Amphitheatre",
     "requiredTech": "Drama and Poetry",
     "cost": 90,
     "maintenance": 1,
     "happiness": 3,
     "culture": 4,
     "uniqueTo": "Tokugawa Shogunate"
-
   }
 ]
-
