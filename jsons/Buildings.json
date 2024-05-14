@@ -9,7 +9,7 @@
     "culture":2,
     "uniqueTo": "Tokugawa Shogunate",
     "uniques": ["New [Melee] units start with [15] experience [in this city]"]
-  },
+  }
   {
     "name": "Geisha House",
     "replaces": "Amphitheatre",
