@@ -1,18 +1,19 @@
 [
-{
-  "name": "Dojo",
-  "cost": 100,
-  "maintenance": 1,
-  "requiredTech": "Feudalism",
-  "providesXP": 2,
-  "providesHappiness": 1
-}
-{
-  "name": "Geisha House",
-  "cost": 120,
-  "maintenance": 2,
-  "requiredTech": "Drama and Poetry",
-  "providesCulture": 2,
-  "providesHappiness": 1
-}
+  {
+    "name": "Dojo",
+    "cost": 100,
+    "maintenance": 1,
+    "requiredTech": "Feudalism",
+    "providesXP": 2,
+    "providesHappiness": 1
+  },
+  {
+    "name": "Geisha House",
+    "cost": 120,
+    "maintenance": 2,
+    "requiredTech": "Drama and Poetry",
+    "providesCulture": 2,
+    "providesHappiness": 1
+  }
 ]
+
