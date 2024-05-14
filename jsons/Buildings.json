@@ -6,7 +6,7 @@
     "cost": 150,
     "maintenance": 1,
     "happiness": 2,
-		"culture": 2,
+    "culture": 2,
     "uniqueTo": "Tokugawa Shogunate"
     "uniques": "New [Melee] units start with [15] experience [in this city",
 
@@ -18,7 +18,7 @@
     "cost": 90,
     "maintenance": 1,
     "happiness": 3,
-		"culture": 4,
+    "culture": 4,
     "uniqueTo": "Tokugawa Shogunate"
 
   }
