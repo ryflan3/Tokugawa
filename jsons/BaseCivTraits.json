@@ -2,15 +2,16 @@
   {
     "name": "Isolationism",
     "internalDevelopmentBonus": {
-      "production": 10,
-      "happiness": 2
+    "production": 10,
+    "happiness": 2
     },
     "defensiveBonus": {
-      "combatStrength": 15
+    "combatStrength": 15
     },
     "tradeAndDiplomacyLimitation": {
-      "internationalTradeGold": -25,
-      "diplomaticRelations": -1
+    "internationalTradeGold": -25,
+    "diplomaticRelations": -1
     }
+    
  ]
 
