@@ -1,5 +1,5 @@
 [
-	{
+{
   "name": "Dojo",
   "cost": 100,
   "maintenance": 1,
@@ -7,7 +7,7 @@
   "providesXP": 2,
   "providesHappiness": 1
 }
-		{
+{
   "name": "Geisha House",
   "cost": 120,
   "maintenance": 2,
