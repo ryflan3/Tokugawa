@@ -10,7 +10,7 @@
         "production": 5,
         "science": 5,
         "military": 6,
-        "priorities": {
+        "priorities": 
             "Tradition": 30,
             "Honor": 20,
             "Autocracy": 10
