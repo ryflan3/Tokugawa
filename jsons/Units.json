@@ -1,6 +1,6 @@
 [
-	{
-		"name": "Samurai",
+{
+  "name": "Samurai",
   "movement": 2,
   "combatStrength": 18,
   "rangedCombatStrength": 0,
