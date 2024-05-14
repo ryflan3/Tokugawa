@@ -31,8 +31,6 @@
     "[+10]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>",
     "[+1 Culture] [in all cities]",
     "[-90]% Gold from Great Merchant trade missions"],
-  "uniqueUnits": ["Samurai"],
-  "uniqueBuildings": ["Dojo", "Geisha House"],
   "cityNames": [
     "Edo", "Kyoto", "Osaka", "Nagoya", "Kanazawa", "Hiroshima", "Sapporo", 
     "Kagoshima", "Nagasaki", "Nara", "Fukuoka", "Shizuoka", "Kobe", "Sendai", 
