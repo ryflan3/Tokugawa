@@ -3,26 +3,21 @@
   "leaderName": "Tokugawa Ieyasu",
   "adjective": ["Tokugawa"],
   "outerColor": [0, 0, 0],
-  "innerColor": [255, 215, 0], 
-  "spyNames": ["Mariko","Anjin"]
+  "innerColor": [255, 215, 0],
+  "spyNames": ["Mariko","Anjin"],
   "leaderDescription": "Founder and first shogun of the Tokugawa Shogunate",
- 
   "startBias": ["Coast"],
   "preferredVictoryType": "Cultural",
-	"favoredReligion": "Christianity",
-
+  "favoredReligion": "Christianity",
   "startIntroPart1": "The Tokugawa Shogunate welcomes you. Our strength lies in our unity and culture.",
   "startIntroPart2": "Isolation is the name of the game",
-
   "introduction": "We are the Tokugawa Shogunate, guardians of Japan's tradition and strength.",
   "declaringWar": "Prepare to face the wrath of the samurai!",
   "attacked": "You dare challenge the Shogunate?",
   "afterPeace": "Peace is restored. Let us prosper together.",
   "defeated": "Our honor remains, even in defeat. The Tokugawa Shogunate will rise again.",
-
   "neutralHello": "Greetings.",
   "hateHello": "What is it now?",
-
   "tradeRequest": "The Shogunate offers you this trade. Consider it wisely.",
   "neutralLetsHearIt": ["Speak your mind.", "What is your proposal?", "You may speak."],
   "hateLetsHearIt": ["Speak!", "What do you have to say?", "Proceed."],
@@ -30,16 +25,15 @@
   "neutralYes": ["Agreed.", "Yes.", "That is acceptable."],
   "hateNo": ["Absolutely not!", "We will not agree to that!", "Unacceptable!"],
   "hateYes": ["Very well.", "That will do.", "So be it."],
-
   "uniqueName": "Isolationism",
-  "uniques": "[+20 City Strength] from every [Defensive Buildings]",
+  "uniques": ["+20% City Strength from every Defensive Buildings"],
   "uniqueUnits": ["Samurai"],
   "uniqueBuildings": ["Dojo", "Geisha House"],
-  
   "cityNames": [
     "Edo", "Kyoto", "Osaka", "Nagoya", "Kanazawa", "Hiroshima", "Sapporo", 
     "Kagoshima", "Nagasaki", "Nara", "Fukuoka", "Shizuoka", "Kobe", "Sendai", 
     "Yokohama", "Hakodate", "Okayama", "Matsue", "Kochi", "Niigata", "Toyama", 
     "Takamatsu", "Fukui", "Matsuyama", "Utsunomiya", "Tsu", "Oita", "Kumamoto", 
     "Akita", "Miyazaki", "Saga", "Nagasaki", "Kofu", "Mito", "Yamagata"
-  ],
+  ]
+}
