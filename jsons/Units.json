@@ -2,7 +2,7 @@
 {
   "name": "Samurai",
   "unitType": "Sword",
-  "uniqueTo": "Tokugawa",
+  "uniqueTo": "Tokugawa Shogunate",
   "movement": 2,
   "combatStrength": 18,
   "rangedCombatStrength": 0,
