@@ -30,7 +30,7 @@
   "uniques": [
     "[+10]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>",
     "[+1 Culture] [in all cities]",
-    "[-90]% Gold from Great Merchant trade missions",
+    "[-90]% Gold from Great Merchant trade missions"],
   "uniqueUnits": ["Samurai"],
   "uniqueBuildings": ["Dojo", "Geisha House"],
   "cityNames": [
