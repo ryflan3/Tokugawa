@@ -28,9 +28,9 @@
   "hateYes": ["Very well.", "That will do.", "So be it."],
   "uniqueName": "Isolationism",
   "uniques": [
-    "+10% Combat strength in friendly territory",
-    "+1 Culture in all cities",
-    "Cannot create Open Borders agreements"],
+    "[+10]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>",
+    "[+1 Culture] [in all cities]",
+    "[-90]% Gold from Great Merchant trade missions",
   "uniqueUnits": ["Samurai"],
   "uniqueBuildings": ["Dojo", "Geisha House"],
   "cityNames": [
