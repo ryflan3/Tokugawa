@@ -25,8 +25,8 @@
     "hateNo": "Absolutely not!",
     "hateYes": "Very well.",
     "uniqueName": ["Isolationism"],
-    "uniques": [
-    "[+10]% Strength <for [All] units> <in [Friendly] tiles>,
+    "uniques": 
+    "[+10]% Strength <for [All] units> <in [Friendly] tiles>"],
     "[+1 Culture] [in all cities]",
     "[-90]% Gold from Great Merchant trade missions"],
     "cities": [
