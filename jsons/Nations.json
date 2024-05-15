@@ -26,16 +26,16 @@
     "hateYes": "Very well.",
     "uniqueName": "Isolationism",
     "uniques": [
-      "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
+      "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
       "[+1 Culture] [in all cities]",
-      "[-90]% Gold from Great Merchant trade missions",
+      "[-90]% Gold from Great Merchant trade missions"
+    ],
     "cities": [
       "Edo", "Kyoto", "Osaka", "Nagoya", "Kanazawa", "Hiroshima", "Sapporo",
       "Kagoshima", "Nagasaki", "Nara", "Fukuoka", "Shizuoka", "Kobe", "Sendai",
       "Yokohama", "Hakodate", "Okayama", "Matsue", "Kochi", "Niigata", "Toyama",
       "Takamatsu", "Fukui", "Matsuyama", "Utsunomiya", "Tsu", "Oita", "Kumamoto",
-      "Akita", "Miyazaki", "Saga", "Kofu", "Mito", "Yamagata",
+      "Akita", "Miyazaki", "Saga", "Kofu", "Mito", "Yamagata"
     ]
   }
 ]
-
