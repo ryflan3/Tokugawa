@@ -11,6 +11,7 @@
     "obsoleteTech": "Rifling",
     "upgradesTo": "Rifleman",
     "uniqueTo": "Tokugawa Shogunate",
-    "uniques": ["This Unit gains the [Shock I] promotion", "Can move after attacking"]
+    "uniques": ["Can move after attacking"]
+    "promotions": ["Shock I", "Great Generals II"],
   }
 ]
