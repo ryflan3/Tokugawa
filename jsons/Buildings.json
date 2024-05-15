@@ -8,7 +8,7 @@
     "happiness": 2,
     "culture": 2,
     "uniqueTo": "Tokugawa Shogunate",
-    "uniques": ["New [Melee] units start with [15] experience [in this city]"]
+    "uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
   },
   {
     "name": "Geisha House",
