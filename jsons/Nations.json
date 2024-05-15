@@ -27,7 +27,7 @@
     "uniqueName": "Isolationism",
     "uniques": [
       "[+10% Strength] for all units in friendly tiles",
-      "[+1 Culture] in all cities",
+      "[+1 Culture] [in all cities"],
       "[-90% Gold] from Great Merchant trade missions"
     ],
     "cities": [
