@@ -24,7 +24,7 @@
     "neutralYes": "Agreed.",
     "hateNo": "Absolutely not!",
     "hateYes": "Very well.",
-    "cityNames": [
+    "cities": [
       "Edo", "Kyoto", "Osaka", "Nagoya", "Kanazawa", "Hiroshima", "Sapporo",
       "Kagoshima", "Nagasaki", "Nara", "Fukuoka", "Shizuoka", "Kobe", "Sendai",
       "Yokohama", "Hakodate", "Okayama", "Matsue", "Kochi", "Niigata", "Toyama",
