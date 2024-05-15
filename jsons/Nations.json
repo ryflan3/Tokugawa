@@ -31,10 +31,6 @@
   "hateNo": ["Absolutely not!", "We will not agree to that!", "Unacceptable!"],
   "hateYes": ["Very well.", "That will do.", "So be it."],
   
-  "uniqueName": ["Isolationism"],
-  "uniques": [
-    "[-90]% Gold from Great Merchant trade missions"],
-  
   "cityNames": [
     "Edo", "Kyoto", "Osaka", "Nagoya", "Kanazawa", "Hiroshima", "Sapporo", 
     "Kagoshima", "Nagasaki", "Nara", "Fukuoka", "Shizuoka", "Kobe", "Sendai", 
