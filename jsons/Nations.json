@@ -2,14 +2,14 @@
   {
     "name": "Tokugawa Shogunate",
     "leaderName": "Tokugawa Ieyasu",
-    "adjective": "Tokugawa",
+    "adjective": ["Tokugawa"],
     "outerColor": [0, 0, 0],
     "innerColor": [255, 215, 0],
     "spyNames": ["Mariko", "Anjin"],
     "startBias": ["Coast"],
     "preferredVictoryType": "Cultural",
     "startIntroPart1": "The Tokugawa Shogunate welcomes you. Our strength lies in our unity and culture.",
-    "startIntroPart2": "Isolation is the name of the game",
+    "startIntroPart2": "Isolation is the name of the game.",
     "introduction": "We are the Tokugawa Shogunate, guardians of Japan's tradition and strength.",
     "declaringWar": "Prepare to face the wrath of the samurai!",
     "attacked": "You dare challenge the Shogunate?",
@@ -24,11 +24,12 @@
     "neutralYes": "Agreed.",
     "hateNo": "Absolutely not!",
     "hateYes": "Very well.",
-    "uniqueName": ["Isolationism"],
-    "uniques": [ 
-    "[+10]% Strength <for [All] units> <in [Friendly] tiles>",
-    "[+1 Culture] [in all cities]",
-    "[-90]% Gold from Great Merchant trade missions"],
+    "uniqueName": "Isolationism",
+    "uniques": [
+      "[+10% Strength] for all units in friendly tiles",
+      "[+1 Culture] in all cities",
+      "[-90% Gold] from Great Merchant trade missions"
+    ],
     "cities": [
       "Edo", "Kyoto", "Osaka", "Nagoya", "Kanazawa", "Hiroshima", "Sapporo",
       "Kagoshima", "Nagasaki", "Nara", "Fukuoka", "Shizuoka", "Kobe", "Sendai",
@@ -38,3 +39,4 @@
     ]
   }
 ]
+
